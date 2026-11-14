@@ -67,4 +67,4 @@ An AI agent team writes, tests and documents the code; I set the architecture, r
 
 ---
 
-<sub>Made by **Emrah Atalay** at <a href="https://eatalay.dev/en">eatalay.dev</a>: mobile apps, games and automation, built with AI and finished by a human. Have an app in mind? <a href="mailto:info@eatalay.dev">info@eatalay.dev</a></sub>
+<sub>Made by **Emrah Atalay** at <a href="https://eatalay.dev/en">eatalay.dev</a>: web and mobile apps, games and automation, built with AI and finished by a human. Have an app in mind? <a href="mailto:info@eatalay.dev">info@eatalay.dev</a></sub>
